@@ -1,1 +1,1 @@
-# RNN-and-LSTM-for-Image-Classifications
+# RNN and LSTM for Image Classifications
